@@ -5,4 +5,4 @@
 Paczka serwera SativaRP
 <p></p>
 
- https://discord.gg/arivirp https://discord.gg/arivirp https://discord.gg/arivirp
+ https://discord.gg/arivirp | https://discord.gg/arivirp | https://discord.gg/arivirp
