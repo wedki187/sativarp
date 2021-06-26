@@ -1,0 +1,297 @@
+[
+    {
+        "name": "bicek.exe",
+        "reason": "Spierdalaj n-wordzie matke ci rucham elo fajne czity ( Gracz: bicek.exe ), Zablokowany przez: Console",
+        "expire": 10444633200,
+        "banid": 8,
+        "banner": "Unknown",
+        "identifiers": [
+            "steam:1100001361d095b",
+            "license:fe098b1f0e3c9d649266c43ea6ab47e51a792362",
+            "discord:538406830771142656",
+            "license2:fe098b1f0e3c9d649266c43ea6ab47e51a792362",
+            "ip:185.140.102.52"
+        ]
+    },
+    {
+        "name": "mustwin",
+        "reason": "cheating -respienie klamek ( Gracz: mustwin ), Zablokowany przez: szymczakovv",
+        "expire": 10444633200,
+        "banid": 12,
+        "banner": "szymczakovv",
+        "identifiers": [
+            "steam:1100001442b7dff",
+            "license:3b50a627c1ffe56d1ff49dcfcc45f415ff378471",
+            "xbl:2535455900662051",
+            "live:844425168330385",
+            "discord:811573597213687808",
+            "license2:3b50a627c1ffe56d1ff49dcfcc45f415ff378471",
+            "ip:54.37.236.132"
+        ]
+    },
+    {
+        "name": "Maksik",
+        "reason": " 30 banroom ( Gracz: Maksik ), Zablokowany przez: nexos .3",
+        "expire": 10444633200,
+        "banid": 16,
+        "banner": "nexos .3",
+        "identifiers": [
+            "steam:11000013b108e95",
+            "license:983e686bad0cd12b23b59cb55dfd04f1b6a36c35",
+            "xbl:2535417888216015",
+            "live:1055519111837375",
+            "discord:638073939301498911",
+            "license2:983e686bad0cd12b23b59cb55dfd04f1b6a36c35",
+            "ip:146.59.11.96"
+        ]
+    },
+    {
+        "name": "dżipsiak",
+        "reason": "Cheaty ( Gracz: dżipsiak ), Zablokowany przez: Termi",
+        "expire": 10444633200,
+        "banid": 21,
+        "banner": "Termi",
+        "identifiers": [
+            "steam:11000011d0adbd1",
+            "license:11d8218fd84a02bea0970ecdd794203110b66a59",
+            "discord:812699512174542888",
+            "license2:11d8218fd84a02bea0970ecdd794203110b66a59",
+            "ip:54.37.236.134"
+        ]
+    },
+    {
+        "name": "anonimowy",
+        "reason": "Nie określono przyczyny ( Gracz: anonimowy ), Zablokowany przez: d3zyEmpire",
+        "expire": 10444633200,
+        "banid": 26,
+        "banner": "d3zyEmpire",
+        "identifiers": [
+            "steam:11000010b77035c",
+            "license:8ef96c6ad501ea5a404b3a071bc30e02d6ceeeb6",
+            "discord:441015400826667018",
+            "license2:e77b433940e4ea424372f7e541bb9ba0413bf044",
+            "ip:54.37.236.135"
+        ]
+    },
+    {
+        "name": "marc3l",
+        "reason": "PA ( Gracz: marc3l ), Zablokowany przez: albertotraba",
+        "expire": 10444633200,
+        "banid": 28,
+        "banner": "albertotraba",
+        "identifiers": [
+            "steam:1100001454f232f",
+            "license:f5a9f8fb4788a1904d564ac43363382e7e256993",
+            "discord:810226123752341565",
+            "license2:f5a9f8fb4788a1904d564ac43363382e7e256993",
+            "ip:54.37.236.128"
+        ]
+    },
+    {
+        "name": "uQEz",
+        "reason": "cheating ( Gracz: uQEz ), Zablokowany przez: albertotraba",
+        "expire": 10444633200,
+        "banid": 31,
+        "banner": "albertotraba",
+        "identifiers": [
+            "steam:1100001444a5dd9",
+            "license:9a8d60517808d9555f7622b0df299578c8188bb9",
+            "discord:758701775460761620",
+            "license2:24d5ae9e22c6a1a9f030c2e22f1d96e64b951190",
+            "ip:54.37.236.132"
+        ]
+    },
+    {
+        "name": "Mądrala",
+        "reason": "granie na aktywnym banie ( Gracz: Mądrala ), Zablokowany przez: albertotraba",
+        "expire": 1614776068,
+        "banid": 40,
+        "banner": "albertotraba",
+        "identifiers": [
+            "steam:11000011aee33b1",
+            "license:54522891d19c39d599ba8c6dd194f476a12b1f8e",
+            "discord:511282357848899625",
+            "license2:cd882eee56385b016d1aa6dd71497f75f111d8a3",
+            "ip:54.37.236.132"
+        ]
+    },
+    {
+        "name": "mundektoziomal",
+        "reason": "clka elo ( Gracz: mundektoziomal ), Zablokowany przez: szymczakovv",
+        "expire": 10444633200,
+        "banid": 41,
+        "banner": "szymczakovv",
+        "identifiers": [
+            "steam:1100001409b04d6",
+            "license:f3058be611a407fdab82b51012d1d7bbdef852fb",
+            "discord:803012750556528670",
+            "license2:f3058be611a407fdab82b51012d1d7bbdef852fb",
+            "ip:146.59.11.105"
+        ]
+    },
+    {
+        "name": "ShrekistheLord",
+        "reason": "do wyjasnienia ( Gracz: ShrekistheLord ), Zablokowany przez: albertotraba",
+        "expire": 10444633200,
+        "banid": 43,
+        "banner": "albertotraba",
+        "identifiers": [
+            "steam:11000013e771ac0",
+            "license:d7f00e90a28484460d24924bf6beaaf059847e17",
+            "live:985154792538831",
+            "license2:d7f00e90a28484460d24924bf6beaaf059847e17",
+            "ip:54.37.236.128"
+        ]
+    },
+    {
+        "name": "Państwo Izrael bezprawnie oku",
+        "reason": "obraza ( Gracz: Państwo Izrael bezprawnie oku ), Zablokowany przez: albertotraba",
+        "expire": 1615465944,
+        "banid": 52,
+        "banner": "albertotraba",
+        "identifiers": [
+            "steam:11000010b42f6f0",
+            "license:a288587dd0b68491c4e936bbb7d1457eeea65a38",
+            "discord:486613441541308418",
+            "ip:54.37.236.128"
+        ]
+    },
+    {
+        "name": "requPG",
+        "reason": "cl ( Gracz: requPG ), Zablokowany przez: albertotraba",
+        "expire": 1614891492,
+        "banid": 59,
+        "banner": "albertotraba",
+        "identifiers": [
+            "steam:1100001177d921e",
+            "license:04d820f81ec026514b8deedcfcf37c83e133c3da",
+            "discord:470116238559936513",
+            "ip:146.59.11.96"
+        ]
+    },
+    {
+        "name": "DON PUTA MADRYT",
+        "reason": "lowrp ( Gracz: DON PUTA MADRYT ), Zablokowany przez: albertotraba",
+        "expire": 1614695889,
+        "banid": 62,
+        "banner": "albertotraba",
+        "identifiers": [
+            "steam:11000011904dd0d",
+            "license:78b48331fc6983e9c74e24e395641fa8b38eb999",
+            "xbl:2535423949578178",
+            "live:914802225581013",
+            "discord:428635692151865345",
+            "license2:78b48331fc6983e9c74e24e395641fa8b38eb999",
+            "ip:54.37.236.135"
+        ]
+    },
+    {
+        "name": "Popo Mielecki Wojownik",
+        "reason": "clear community ( Gracz: Popo Mielecki Wojownik ), Zablokowany przez: albertotraba",
+        "expire": 10444633200,
+        "banid": 63,
+        "banner": "albertotraba",
+        "identifiers": [
+            "steam:110000143c244e6",
+            "license:5fbac5f38a6b730f49f852f9740c973e56c1bb66",
+            "xbl:2535420006104185",
+            "live:844425033766251",
+            "discord:811608003500834888",
+            "license2:5fbac5f38a6b730f49f852f9740c973e56c1bb66",
+            "ip:54.37.236.129"
+        ]
+    },
+    {
+        "name": "masniutki",
+        "reason": "nie spam na reporcie 12h odpocznij sobie ( Gracz: masniutki ), Zablokowany przez: Ethical",
+        "banid": 69,
+        "expire": 1614647520,
+        "banner": "Ethical",
+        "identifiers": [
+            "steam:110000144296cfa",
+            "license:2a8f1117456f9adb586739d62137080c6a73f66b",
+            "discord:773213481590980608",
+            "license2:2a8f1117456f9adb586739d62137080c6a73f66b",
+            "ip:54.37.236.133"
+        ]
+    },
+    {
+        "name": "kasti",
+        "reason": "spam report ( Gracz: kasti ), Zablokowany przez: d3zyEmpire",
+        "banid": 70,
+        "expire": 1614651215,
+        "banner": "d3zyEmpire",
+        "identifiers": [
+            "steam:110000145a0a7b7",
+            "license:d5fc17d04512856b2af4b6a575f2bac833ed7b3a",
+            "xbl:2535454749809813",
+            "live:914802145706558",
+            "discord:419404682545594368",
+            "license2:d5fc17d04512856b2af4b6a575f2bac833ed7b3a",
+            "ip:51.83.217.214"
+        ]
+    },
+    {
+        "name": "Damiano",
+        "reason": "do wyjasnienia ( Gracz: Damiano ), Zablokowany przez: albertotraba",
+        "banid": 71,
+        "expire": 10444633200,
+        "banner": "albertotraba",
+        "identifiers": [
+            "steam:110000139a7d63c",
+            "license:6280140768b1927abb6a431144c474f44441d546",
+            "xbl:2535433629314859",
+            "live:914798053528271",
+            "discord:384958300950626304",
+            "fivem:1398863",
+            "license2:6280140768b1927abb6a431144c474f44441d546",
+            "ip:54.37.236.131"
+        ]
+    },
+    {
+        "name": "White",
+        "reason": "wyzwiska l-ooc + niestawiennictwo na rzadowy ( Gracz: White ), Zablokowany przez: d3zyEmpire",
+        "banid": 72,
+        "expire": 1614657692,
+        "banner": "d3zyEmpire",
+        "identifiers": [
+            "steam:11000011b40e8c2",
+            "license:be33b68a5c4b0188477aedadb4308aa9ad767e32",
+            "xbl:2535452518761404",
+            "live:844429185620733",
+            "discord:504702127202107402",
+            "license2:be33b68a5c4b0188477aedadb4308aa9ad767e32",
+            "ip:51.83.217.214"
+        ]
+    },
+    {
+        "name": "17Wafelek",
+        "reason": "Nie określono przyczyny ( Gracz: 17Wafelek ), Zablokowany przez: d3zyEmpire",
+        "banid": 73,
+        "expire": 10444633200,
+        "banner": "d3zyEmpire",
+        "identifiers": [
+            "steam:11000011a8e5103",
+            "license:074aa413173c692397b33b2690833097444ed092",
+            "xbl:2535433246162004",
+            "live:914797994537625",
+            "discord:414002002641813524",
+            "license2:074aa413173c692397b33b2690833097444ed092",
+            "ip:54.37.236.133"
+        ]
+    },
+    {
+        "name": "Squizy",
+        "reason": "BanRoom ( Gracz: Squizy ), Zablokowany przez: Sarielov",
+        "banid": 74,
+        "expire": 10444633200,
+        "banner": "Sarielov",
+        "identifiers": [
+            "steam:110000116a606ea",
+            "license:78cce7432a1c2d83e63baf3ad788b764727f594c",
+            "discord:379302352785768448",
+            "license2:78cce7432a1c2d83e63baf3ad788b764727f594c",
+            "ip:146.59.11.98"
+        ]
+    }
+]

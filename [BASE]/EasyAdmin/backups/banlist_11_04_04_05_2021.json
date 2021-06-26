@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Olivier",
+        "reason": "Nie określono przyczyny ( Gracz: Olivier ), Zablokowany przez: sota",
+        "expire": 10444633200,
+        "banid": 1,
+        "banner": "sota",
+        "identifiers": [
+            "steam:110000131fc4c48",
+            "ip:37.123.203.65"
+        ]
+    },
+    {
+        "name": "AllOn",
+        "reason": "ogarnij siE ( Gracz: AllOn ), Zablokowany przez: dkp.foriv",
+        "expire": 10444633200,
+        "banid": 2,
+        "banner": "dkp.foriv",
+        "identifiers": [
+            "steam:110000132d22766",
+            "ip:37.30.17.11"
+        ]
+    },
+    {
+        "name": "poruchac musze bo sie udusze",
+        "reason": "wmg ( Gracz: poruchac musze bo sie udusze ), Zablokowany przez: dkp.ceglaaa",
+        "expire": 1620160724,
+        "banid": 3,
+        "banner": "dkp.ceglaaa",
+        "identifiers": [
+            "steam:11000010ecc85bc",
+            "ip:89.66.5.55"
+        ]
+    },
+    {
+        "name": "wh K3ssu",
+        "reason": "CL ( Gracz: wh K3ssu ), Zablokowany przez: sota",
+        "expire": 1620165867,
+        "banid": 6,
+        "banner": "sota",
+        "identifiers": [
+            "steam:110000140362089",
+            "ip:89.64.41.16"
+        ]
+    },
+    {
+        "name": "Kaskader",
+        "reason": "BANROOM ( Gracz: Kaskader ), Zablokowany przez: dkp.ceglaaa",
+        "expire": 1620201373,
+        "banner": "dkp.ceglaaa",
+        "banid": 7,
+        "identifiers": [
+            "steam:110000146e738a4",
+            "ip:79.185.231.57"
+        ]
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "banner": "Unknown",
+        "name": "Sekim",
+        "identifiers": [
+            "steam:11000010b2f63ca",
+            "license:84b123686750577030da0f3f6e290bea15cd08d6",
+            "discord:323342730891755520",
+            "ip:83.20.228.126"
+        ],
+        "banid": 7,
+        "reason": "Spierdalaj n-wordzie matke ci rucham elo fajne czity ( Gracz: Sekim ), Zablokowany przez: Console",
+        "expire": 10444633200
+    },
+    {
+        "banner": "Unknown",
+        "name": "bicek.exe",
+        "identifiers": [
+            "steam:1100001361d095b",
+            "license:fe098b1f0e3c9d649266c43ea6ab47e51a792362",
+            "discord:538406830771142656",
+            "license2:fe098b1f0e3c9d649266c43ea6ab47e51a792362",
+            "ip:185.140.102.52"
+        ],
+        "banid": 8,
+        "reason": "Spierdalaj n-wordzie matke ci rucham elo fajne czity ( Gracz: bicek.exe ), Zablokowany przez: Console",
+        "expire": 10444633200
+    },
+    {
+        "banner": "szymczakovv",
+        "name": "mustwin",
+        "identifiers": [
+            "steam:1100001442b7dff",
+            "license:3b50a627c1ffe56d1ff49dcfcc45f415ff378471",
+            "xbl:2535455900662051",
+            "live:844425168330385",
+            "discord:811573597213687808",
+            "license2:3b50a627c1ffe56d1ff49dcfcc45f415ff378471",
+            "ip:54.37.236.132"
+        ],
+        "banid": 12,
+        "reason": "cheating -respienie klamek ( Gracz: mustwin ), Zablokowany przez: szymczakovv",
+        "expire": 10444633200
+    },
+    {
+        "banner": "nexos .3",
+        "name": "Maksik",
+        "identifiers": [
+            "steam:11000013b108e95",
+            "license:983e686bad0cd12b23b59cb55dfd04f1b6a36c35",
+            "xbl:2535417888216015",
+            "live:1055519111837375",
+            "discord:638073939301498911",
+            "license2:983e686bad0cd12b23b59cb55dfd04f1b6a36c35",
+            "ip:146.59.11.96"
+        ],
+        "banid": 16,
+        "reason": " 30 banroom ( Gracz: Maksik ), Zablokowany przez: nexos .3",
+        "expire": 10444633200
+    },
+    {
+        "banner": "stj",
+        "name": "ZbysiuStulejnoga",
+        "identifiers": [
+            "steam:110000132b53a25",
+            "license:da520e9f43b357ce3140a6716227bfdd47c220b3",
+            "discord:429553040220094464",
+            "license2:da520e9f43b357ce3140a6716227bfdd47c220b3",
+            "ip:54.37.236.133"
+        ],
+        "banid": 19,
+        "reason": "Cheaty ( Gracz: ZbysiuStulejnoga ), Zablokowany przez: stj",
+        "expire": 10444633200
+    },
+    {
+        "banner": "Termi",
+        "name": "dżipsiak",
+        "identifiers": [
+            "steam:11000011d0adbd1",
+            "license:11d8218fd84a02bea0970ecdd794203110b66a59",
+            "discord:812699512174542888",
+            "license2:11d8218fd84a02bea0970ecdd794203110b66a59",
+            "ip:54.37.236.134"
+        ],
+        "banid": 21,
+        "reason": "Cheaty ( Gracz: dżipsiak ), Zablokowany przez: Termi",
+        "expire": 10444633200
+    },
+    {
+        "banner": "stj",
+        "name": "Furman_XX",
+        "identifiers": [
+            "steam:11000011acad27a",
+            "license:b0fc0631dd32ff1ff011c1fb365587415b4efe2c",
+            "discord:439708840620195850",
+            "license2:ce85be06b0befcc01955e7447cda9a6f26b3ef43",
+            "ip:54.37.236.135"
+        ],
+        "banid": 23,
+        "reason": "Cheaty ( Gracz: Furman_XX ), Zablokowany przez: stj",
+        "expire": 10444633200
+    },
+    {
+        "banner": "Termi",
+        "name": "Skibulek",
+        "identifiers": [
+            "steam:1100001453c8951",
+            "license:bb34fdb7b91bcaaa7f3d4ebf894046212b680a5c",
+            "xbl:2535440324779739",
+            "live:914798621744449",
+            "discord:611231886320074799",
+            "license2:bb34fdb7b91bcaaa7f3d4ebf894046212b680a5c",
+            "ip:146.59.11.99"
+        ],
+        "banid": 24,
+        "reason": " ( Gracz: Skibulek ), Zablokowany przez: Termi",
+        "expire": 10444633200
+    },
+    {
+        "banner": "d3zyEmpire",
+        "name": "anonimowy",
+        "identifiers": [
+            "steam:11000010b77035c",
+            "license:8ef96c6ad501ea5a404b3a071bc30e02d6ceeeb6",
+            "discord:441015400826667018",
+            "license2:e77b433940e4ea424372f7e541bb9ba0413bf044",
+            "ip:54.37.236.135"
+        ],
+        "banid": 26,
+        "reason": "Nie określono przyczyny ( Gracz: anonimowy ), Zablokowany przez: d3zyEmpire",
+        "expire": 10444633200
+    },
+    {
+        "banner": "albertotraba",
+        "name": "marc3l",
+        "identifiers": [
+            "steam:1100001454f232f",
+            "license:f5a9f8fb4788a1904d564ac43363382e7e256993",
+            "discord:810226123752341565",
+            "license2:f5a9f8fb4788a1904d564ac43363382e7e256993",
+            "ip:54.37.236.128"
+        ],
+        "banid": 28,
+        "reason": "PA ( Gracz: marc3l ), Zablokowany przez: albertotraba",
+        "expire": 10444633200
+    },
+    {
+        "banner": "nexos .3",
+        "name": ".SoSadfall",
+        "identifiers": [
+            "steam:11000010e1d0ce5",
+            "license:45163ee2dffa9af01340e9ab859a66b5b3a7696d",
+            "discord:328169163560583168",
+            "license2:45163ee2dffa9af01340e9ab859a66b5b3a7696d",
+            "ip:54.37.236.128"
+        ],
+        "banid": 29,
+        "reason": " 2 banroom ( Gracz: .SoSadfall ), Zablokowany przez: nexos .3",
+        "expire": 10444633200
+    },
+    {
+        "banner": "nexos .3",
+        "name": ".SoSadfall",
+        "identifiers": [
+            "steam:11000010e1d0ce5",
+            "license:45163ee2dffa9af01340e9ab859a66b5b3a7696d",
+            "discord:328169163560583168",
+            "license2:45163ee2dffa9af01340e9ab859a66b5b3a7696d",
+            "ip:54.37.236.128"
+        ],
+        "banid": 30,
+        "reason": " 2 banroom ( Gracz: .SoSadfall ), Zablokowany przez: nexos .3",
+        "expire": 10444633200
+    },
+    {
+        "banner": "albertotraba",
+        "name": "uQEz",
+        "identifiers": [
+            "steam:1100001444a5dd9",
+            "license:9a8d60517808d9555f7622b0df299578c8188bb9",
+            "discord:758701775460761620",
+            "license2:24d5ae9e22c6a1a9f030c2e22f1d96e64b951190",
+            "ip:54.37.236.132"
+        ],
+        "banid": 31,
+        "reason": "cheating ( Gracz: uQEz ), Zablokowany przez: albertotraba",
+        "expire": 10444633200
+    },
+    {
+        "banner": "albertotraba",
+        "name": "Mądrala",
+        "identifiers": [
+            "steam:11000011aee33b1",
+            "license:54522891d19c39d599ba8c6dd194f476a12b1f8e",
+            "discord:511282357848899625",
+            "license2:cd882eee56385b016d1aa6dd71497f75f111d8a3",
+            "ip:54.37.236.132"
+        ],
+        "banid": 40,
+        "reason": "granie na aktywnym banie ( Gracz: Mądrala ), Zablokowany przez: albertotraba",
+        "expire": 1614776068
+    },
+    {
+        "banner": "szymczakovv",
+        "name": "mundektoziomal",
+        "identifiers": [
+            "steam:1100001409b04d6",
+            "license:f3058be611a407fdab82b51012d1d7bbdef852fb",
+            "discord:803012750556528670",
+            "license2:f3058be611a407fdab82b51012d1d7bbdef852fb",
+            "ip:146.59.11.105"
+        ],
+        "banid": 41,
+        "reason": "clka elo ( Gracz: mundektoziomal ), Zablokowany przez: szymczakovv",
+        "expire": 10444633200
+    },
+    {
+        "banner": "albertotraba",
+        "name": "ShrekistheLord",
+        "identifiers": [
+            "steam:11000013e771ac0",
+            "license:d7f00e90a28484460d24924bf6beaaf059847e17",
+            "live:985154792538831",
+            "license2:d7f00e90a28484460d24924bf6beaaf059847e17",
+            "ip:54.37.236.128"
+        ],
+        "banid": 43,
+        "reason": "do wyjasnienia ( Gracz: ShrekistheLord ), Zablokowany przez: albertotraba",
+        "expire": 10444633200
+    },
+    {
+        "banner": "Essen_",
+        "name": "mike",
+        "identifiers": [
+            "steam:11000010f4e0328",
+            "license:2257c9a392e35959d7319132112094dd6dc12cd8",
+            "xbl:2535461955467791",
+            "live:844425021497224",
+            "discord:688582729557737621",
+            "license2:6a2b07dc968cbbec3a8998307bda829b3d308c28",
+            "ip:54.37.236.133"
+        ],
+        "banid": 45,
+        "reason": "CL ( Gracz: mike ), Zablokowany przez: Essen_",
+        "expire": 1614404948
+    },
+    {
+        "banner": "Essen_",
+        "name": "Michu",
+        "identifiers": [
+            "steam:1100001368d48a8",
+            "license:5abd1099111c05b139c405f7d2a8f3ee6414d823",
+            "xbl:2535413408968800",
+            "live:914802255083553",
+            "discord:625956660040695810",
+            "ip:51.83.217.214"
+        ],
+        "banid": 46,
+        "reason": "MG ( Gracz: Michu ), Zablokowany przez: Essen_",
+        "expire": 1614404969
+    },
+    {
+        "banner": "Essen_",
+        "name": "MaszProblemXD",
+        "identifiers": [
+            "steam:11000011c89422e",
+            "license:68c30567dcec1477e07ef87247d420111852c3f9",
+            "xbl:2535431619307454",
+            "live:985154078291740",
+            "discord:449948165043650570",
+            "license2:68c30567dcec1477e07ef87247d420111852c3f9",
+            "ip:51.83.217.214"
+        ],
+        "banid": 48,
+        "reason": "MG ( Gracz: MaszProblemXD ), Zablokowany przez: Essen_",
+        "expire": 1614405004
+    },
+    {
+        "banner": "Bacikk",
+        "name": "csgo 2137 meczyk maker top 1",
+        "identifiers": [
+            "steam:110000113285255",
+            "license:1aea494f661bfc577533cc240a588f314ae046e7",
+            "xbl:2535447261889521",
+            "live:914798005779395",
+            "discord:567445600593772582",
+            "license2:1aea494f661bfc577533cc240a588f314ae046e7",
+            "ip:146.59.11.98"
+        ],
+        "banid": 49,
+        "reason": "Brak wymaganego wieku ( Gracz: csgo 2137 meczyk maker top 1 ), Zablokowany przez: Bacikk",
+        "expire": 10444633200
+    },
+    {
+        "banner": "albertotraba",
+        "name": "666beton",
+        "identifiers": [
+            "steam:11000011c1cc422",
+            "license:8fd44de51b119a269f7f90cec1bd9ce9d728bc8a",
+            "discord:469134041312919570",
+            "license2:8fd44de51b119a269f7f90cec1bd9ce9d728bc8a",
+            "ip:146.59.11.97"
+        ],
+        "banid": 50,
+        "reason": "lowrp ( Gracz: 666beton ), Zablokowany przez: albertotraba",
+        "expire": 1614594124
+    },
+    {
+        "banner": "albertotraba",
+        "name": "profesor",
+        "identifiers": [
+            "steam:110000136b88bc9",
+            "license:75cb4b0b9e57741d90499b82c816cb2f524b5212",
+            "discord:530465093326995481",
+            "license2:75cb4b0b9e57741d90499b82c816cb2f524b5212",
+            "ip:54.37.236.134"
+        ],
+        "banid": 51,
+        "reason": "lowrp ( Gracz: profesor ), Zablokowany przez: albertotraba",
+        "expire": 1614594702
+    },
+    {
+        "banner": "albertotraba",
+        "name": "Państwo Izrael bezprawnie oku",
+        "identifiers": [
+            "steam:11000010b42f6f0",
+            "license:a288587dd0b68491c4e936bbb7d1457eeea65a38",
+            "discord:486613441541308418",
+            "ip:54.37.236.128"
+        ],
+        "banid": 52,
+        "reason": "obraza ( Gracz: Państwo Izrael bezprawnie oku ), Zablokowany przez: albertotraba",
+        "expire": 1615465944
+    },
+    {
+        "banner": "albertotraba",
+        "name": "ruShy",
+        "identifiers": [
+            "steam:110000102686bd1",
+            "license:4ca8d043aad3dec4372725955265accb4348eefa",
+            "xbl:2535442516901043",
+            "live:1055518319149539",
+            "discord:468384256914096128",
+            "license2:b018afadd71f8dccd2ae24320ad71a6a49499a59",
+            "ip:146.59.11.97"
+        ],
+        "banid": 53,
+        "reason": "rdm ( Gracz: ruShy ), Zablokowany przez: albertotraba",
+        "expire": 1614434534
+    },
+    {
+        "banner": "d3zyEmpire",
+        "name": "JaCoB",
+        "identifiers": [
+            "steam:11000010e091d97",
+            "license:2d28ceda13376c2a5e4efb62f3c329e1cfc3cb08",
+            "discord:404409808427679746",
+            "license2:2d28ceda13376c2a5e4efb62f3c329e1cfc3cb08",
+            "ip:54.37.236.135"
+        ],
+        "banid": 55,
+        "reason": "VDM ( Gracz: JaCoB ), Zablokowany przez: d3zyEmpire",
+        "expire": 1614625434
+    },
+    {
+        "banner": "szymczakovv",
+        "name": "zbulwers",
+        "identifiers": [
+            "steam:11000010a613cf1",
+            "license:be373c3bbe8be345ea724bd7f942b1a7cd83d1de",
+            "xbl:2535407378831808",
+            "live:985157688145714",
+            "discord:308981948670541824",
+            "license2:be373c3bbe8be345ea724bd7f942b1a7cd83d1de",
+            "ip:54.37.236.134"
+        ],
+        "banid": 58,
+        "reason": "morda lapsie ( Gracz: zbulwers ), Zablokowany przez: szymczakovv",
+        "expire": 1614890906
+    },
+    {
+        "banner": "albertotraba",
+        "name": "requPG",
+        "identifiers": [
+            "steam:1100001177d921e",
+            "license:04d820f81ec026514b8deedcfcf37c83e133c3da",
+            "discord:470116238559936513",
+            "ip:146.59.11.96"
+        ],
+        "banid": 59,
+        "reason": "cl ( Gracz: requPG ), Zablokowany przez: albertotraba",
+        "expire": 1614891492
+    }
+]

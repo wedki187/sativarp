@@ -1,0 +1,35 @@
+[
+    {
+        "name": "akuku",
+        "identifiers": [
+            "steam:11000011cff44e5",
+            "ip:31.60.154.142"
+        ],
+        "banid": 163,
+        "banner": "dkp.foriv",
+        "expire": 10444633200,
+        "reason": "Nie określono przyczyny ( Gracz: akuku ), Zablokowany przez: dkp.foriv"
+    },
+    {
+        "name": "317vexu",
+        "identifiers": [
+            "steam:110000132fd0cc6",
+            "ip:155.133.35.38"
+        ],
+        "banid": 165,
+        "banner": "Tenshi",
+        "expire": 1621798875,
+        "reason": "RDM ( Gracz: 317vexu ), Zablokowany przez: Tenshi"
+    },
+    {
+        "name": "TheBrave",
+        "identifiers": [
+            "steam:1100001324ae2bd",
+            "ip:83.8.8.178"
+        ],
+        "reason": "rdm ( Gracz: TheBrave ), Zablokowany przez: Tenshi",
+        "banner": "Tenshi",
+        "expire": 1621798889,
+        "banid": 166
+    }
+]

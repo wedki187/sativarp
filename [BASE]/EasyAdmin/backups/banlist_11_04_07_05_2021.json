@@ -1,0 +1,563 @@
+[
+    {
+        "identifiers": [
+            "steam:11000013c52ae7e",
+            "ip:31.182.188.165"
+        ],
+        "name": "klakier",
+        "expire": 1620408290,
+        "banner": "szew amg",
+        "banid": 52,
+        "reason": "WMG ( Gracz: klakier ), Zablokowany przez: szew amg"
+    },
+    {
+        "identifiers": [
+            "steam:110000119f09ea4",
+            "ip:89.64.39.254"
+        ],
+        "name": "Kuzyn",
+        "expire": 10444633200,
+        "banner": "MOBBYN",
+        "banid": 53,
+        "reason": " troll ( Gracz: Kuzyn ), Zablokowany przez: MOBBYN"
+    },
+    {
+        "identifiers": [
+            "steam:110000145e92e1d",
+            "ip:79.163.148.222"
+        ],
+        "name": "tango.stasiu",
+        "expire": 10444633200,
+        "banner": "MOBBYN",
+        "banid": 54,
+        "reason": "troll ( Gracz: tango.stasiu ), Zablokowany przez: MOBBYN"
+    },
+    {
+        "identifiers": [
+            "steam:110000144bc5e38",
+            "ip:188.147.60.240"
+        ],
+        "name": "CandyShow",
+        "expire": 1620412806,
+        "banner": "kreglarz.czwura",
+        "banid": 58,
+        "reason": "RDM ( Gracz: CandyShow ), Zablokowany przez: kreglarz.czwura"
+    },
+    {
+        "identifiers": [
+            "steam:1100001442c65a7",
+            "ip:159.205.236.227"
+        ],
+        "name": "cobler",
+        "expire": 1620547397,
+        "banner": "drex",
+        "banid": 64,
+        "reason": "CL ( Gracz: cobler ), Zablokowany przez: drex"
+    },
+    {
+        "identifiers": [
+            "steam:110000140e37b6e",
+            "ip:109.196.151.220"
+        ],
+        "name": "Kacperek⁶₆⁷",
+        "expire": 1620547623,
+        "banner": "drex",
+        "banid": 65,
+        "reason": "CL ( Gracz: Kacperek⁶₆⁷ ), Zablokowany przez: drex"
+    },
+    {
+        "identifiers": [
+            "steam:110000144f3fc58",
+            "ip:109.173.150.190"
+        ],
+        "name": "BOMBEL ZOSTAW MNIE",
+        "expire": 10444633200,
+        "banner": "MOBBYN",
+        "banid": 67,
+        "reason": " ( Gracz: BOMBEL ZOSTAW MNIE ), Zablokowany przez: MOBBYN"
+    },
+    {
+        "identifiers": [
+            "steam:11000013feb914a",
+            "ip:37.30.48.123"
+        ],
+        "name": "eloooooooo13",
+        "expire": 10444633200,
+        "banner": "MOBBYN",
+        "banid": 68,
+        "reason": " ( Gracz: eloooooooo13 ), Zablokowany przez: MOBBYN"
+    },
+    {
+        "identifiers": [
+            "steam:110000144f3fc58",
+            "ip:109.173.150.190"
+        ],
+        "name": "BOMBEL ZOSTAW MNIE",
+        "expire": 1620811976,
+        "banner": "lolek",
+        "banid": 69,
+        "reason": "PERFIDNA CL /TOXHS, MOBBYN ( Gracz: BOMBEL ZOSTAW MNIE ), Zablokowany przez: lolek"
+    },
+    {
+        "identifiers": [
+            "steam:1100001453dd514",
+            "ip:31.135.192.36"
+        ],
+        "name": "NIKO",
+        "expire": 10444633200,
+        "banner": "MOBBYN",
+        "banid": 70,
+        "reason": " cl ( Gracz: NIKO ), Zablokowany przez: MOBBYN"
+    },
+    {
+        "identifiers": [
+            "steam:110000141f9b679",
+            "ip:89.64.90.38"
+        ],
+        "name": "elooooooooooooooooooooooo",
+        "expire": 10444633200,
+        "banner": "lolek",
+        "banid": 71,
+        "reason": "cheating jol ( Gracz: elooooooooooooooooooooooo ), Zablokowany przez: lolek"
+    },
+    {
+        "identifiers": [
+            "steam:11000011cb8307e",
+            "ip:89.239.93.142"
+        ],
+        "name": "hazik",
+        "expire": 1620555139,
+        "banner": "MOBBYN",
+        "banid": 72,
+        "reason": "cl[fake crash] ( Gracz: hazik ), Zablokowany przez: MOBBYN"
+    },
+    {
+        "identifiers": [
+            "steam:11000013ece2d08",
+            "ip:195.181.163.28"
+        ],
+        "name": "Mlody",
+        "expire": 10444633200,
+        "banner": "lolek",
+        "banid": 74,
+        "reason": "sadge stary ( Gracz: Mlody ), Zablokowany przez: lolek"
+    },
+    {
+        "identifiers": [
+            "steam:11000010519106a",
+            "ip:8.39.215.53"
+        ],
+        "name": "lolek",
+        "expire": 10444633200,
+        "banner": "lolek",
+        "banid": 77,
+        "reason": "1.7 elo ( Gracz: lolek ), Zablokowany przez: lolek"
+    },
+    {
+        "identifiers": [
+            "steam:110000141a96ae8",
+            "ip:83.30.65.24"
+        ],
+        "name": "GOD.dred",
+        "expire": 1620472785,
+        "banner": "invis",
+        "banid": 78,
+        "reason": "CL ( Gracz: GOD.dred ), Zablokowany przez: invis"
+    },
+    {
+        "identifiers": [
+            "steam:11000011297fd2a",
+            "ip:89.64.35.139"
+        ],
+        "name": "Kubuś",
+        "expire": 1621425022,
+        "banner": "ҳToxHS",
+        "banid": 79,
+        "reason": "Podszywanie sie pod PD RDM ( Gracz: Kubuś ), Zablokowany przez: ҳToxHS"
+    },
+    {
+        "identifiers": [
+            "steam:11000013d3afb9c",
+            "ip:31.0.122.40"
+        ],
+        "name": "1SHOT 2KILL",
+        "expire": 1620824640,
+        "banner": "parapetuwa",
+        "banid": 85,
+        "reason": "debilizm ( Gracz: 1SHOT 2KILL ), Zablokowany przez: parapetuwa"
+    },
+    {
+        "identifiers": [
+            "steam:110000141f6242d",
+            "ip:176.103.172.108"
+        ],
+        "name": "Kacper ᴬⁱᵐˢᵗᵃʳ",
+        "expire": 1620824686,
+        "banner": "parapetuwa",
+        "banid": 86,
+        "reason": "Debilizm, lootrp ( Gracz: Kacper ᴬⁱᵐˢᵗᵃʳ ), Zablokowany przez: parapetuwa"
+    },
+    {
+        "identifiers": [
+            "steam:1100001455408ee",
+            "ip:84.10.164.113"
+        ],
+        "name": "bojufkarz69",
+        "expire": 1620824818,
+        "banner": "parapetuwa",
+        "banid": 87,
+        "reason": "debvilizm ( Gracz: bojufkarz69 ), Zablokowany przez: parapetuwa"
+    },
+    {
+        "identifiers": [
+            "steam:110000147c8853a",
+            "ip:89.64.37.100"
+        ],
+        "name": "TheUnNuciaqq",
+        "expire": 10444633200,
+        "banner": ".ceglaaa",
+        "banid": 89,
+        "reason": "Nie określono przyczyny ( Gracz: TheUnNuciaqq ), Zablokowany przez: .ceglaaa"
+    },
+    {
+        "identifiers": [
+            "steam:110000147595ffc",
+            "ip:37.47.19.254"
+        ],
+        "name": "Sratatata",
+        "expire": 10444633200,
+        "banner": ".ceglaaa",
+        "banid": 93,
+        "reason": "DO wyjasnienia ( Gracz: Sratatata ), Zablokowany przez: .ceglaaa"
+    },
+    {
+        "identifiers": [
+            "steam:110000147f2bbe5",
+            "ip:83.24.1.88"
+        ],
+        "name": "maciejek711_",
+        "expire": 10444633200,
+        "banner": "kreglarz.czwura",
+        "banid": 94,
+        "reason": "CHEATY ( Gracz: maciejek711_ ), Zablokowany przez: kreglarz.czwura"
+    },
+    {
+        "identifiers": [
+            "steam:11000013eda86ee",
+            "ip:178.214.5.7"
+        ],
+        "name": "Made",
+        "expire": 10444633200,
+        "banner": ".ceglaaa",
+        "banid": 95,
+        "reason": "Nie określono przyczyny ( Gracz: Made ), Zablokowany przez: .ceglaaa"
+    },
+    {
+        "identifiers": [
+            "steam:110000115ad3d42",
+            "ip:80.49.185.1"
+        ],
+        "name": "✞padawan✞",
+        "expire": 1620401241,
+        "banner": "parapetuwa",
+        "banid": 97,
+        "reason": "FRp ( Gracz: ✞padawan✞ ), Zablokowany przez: parapetuwa"
+    },
+    {
+        "identifiers": [
+            "steam:11000014374ddea",
+            "ip:5.173.201.73"
+        ],
+        "name": "brek.n0thing",
+        "expire": 1620574376,
+        "banner": "parapetuwa",
+        "banid": 98,
+        "reason": "Cl ( Gracz: brek.n0thing ), Zablokowany przez: parapetuwa"
+    },
+    {
+        "identifiers": [
+            "steam:1100001367a07b7",
+            "ip:185.152.123.168"
+        ],
+        "name": "kaksu",
+        "expire": 1620488162,
+        "banner": "ogkebs",
+        "banid": 100,
+        "reason": "mg ( Gracz: kaksu ), Zablokowany przez: ogkebs"
+    },
+    {
+        "identifiers": [
+            "steam:1100001329929a0",
+            "ip:94.154.27.16"
+        ],
+        "name": "Horyz",
+        "expire": 1620488213,
+        "banner": "ogkebs",
+        "banid": 101,
+        "reason": "mg ( Gracz: Horyz ), Zablokowany przez: ogkebs"
+    },
+    {
+        "identifiers": [
+            "steam:1100001356e6171",
+            "ip:91.225.159.159"
+        ],
+        "name": "FeZu",
+        "expire": 10444633200,
+        "banner": "parapetuwa",
+        "banid": 102,
+        "reason": "Nie określono przyczyny ( Gracz: FeZu ), Zablokowany przez: parapetuwa"
+    },
+    {
+        "identifiers": [
+            "steam:110000140ee37a9",
+            "ip:5.173.176.45"
+        ],
+        "name": "Cytrus",
+        "expire": 1620841797,
+        "banner": "kreglarz.czwura",
+        "banid": 104,
+        "reason": "FailRP, NPZ ( Gracz: Cytrus ), Zablokowany przez: kreglarz.czwura"
+    },
+    {
+        "identifiers": [
+            "steam:1100001423addfd",
+            "ip:109.173.158.134"
+        ],
+        "name": "siur marysi",
+        "expire": 1620842511,
+        "banner": "dkp.foriv",
+        "banid": 105,
+        "reason": "mass rdm ( Gracz: siur marysi ), Zablokowany przez: dkp.foriv"
+    },
+    {
+        "identifiers": [
+            "steam:11000013dc53635",
+            "ip:37.47.243.48"
+        ],
+        "name": "Fineeasz",
+        "expire": 10444633200,
+        "banner": "kreglarz.czwura",
+        "banid": 106,
+        "reason": "TROLLING ( Gracz: Fineeasz ), Zablokowany przez: kreglarz.czwura"
+    },
+    {
+        "identifiers": [
+            "steam:11000013dc53635",
+            "ip:37.47.243.48"
+        ],
+        "name": "Fineeasz",
+        "expire": 10444633200,
+        "banner": "mentoras",
+        "banid": 107,
+        "reason": " dowidzenia ( Gracz: Fineeasz ), Zablokowany przez: mentoras"
+    },
+    {
+        "identifiers": [
+            "steam:110000147f2e374",
+            "ip:37.120.211.124"
+        ],
+        "name": "stasiu topka",
+        "expire": 10444633200,
+        "banner": ".ceglaaa",
+        "banid": 108,
+        "reason": "Nie określono przyczyny ( Gracz: stasiu topka ), Zablokowany przez: .ceglaaa"
+    },
+    {
+        "identifiers": [
+            "steam:110000142ea4356",
+            "ip:5.134.77.23"
+        ],
+        "name": "ElsiK",
+        "expire": 10444633200,
+        "banner": "xpajsh",
+        "banid": 109,
+        "reason": "trolling ( Gracz: ElsiK ), Zablokowany przez: xpajsh"
+    },
+    {
+        "identifiers": [
+            "steam:110000115c46d63",
+            "ip:8.40.107.139"
+        ],
+        "name": "mocarz.Kamil",
+        "expire": 1620416914,
+        "banner": ".ceglaaa",
+        "banid": 111,
+        "reason": "Nie określono przyczyny ( Gracz: mocarz.Kamil ), Zablokowany przez: .ceglaaa"
+    },
+    {
+        "expire": 10444633200,
+        "name": "Kamilka",
+        "banid": 113,
+        "banner": "ogkebs",
+        "identifiers": [
+            "steam:11000013edaa8f0",
+            "ip:185.13.187.108"
+        ],
+        "reason": "troll ( Gracz: Kamilka ), Zablokowany przez: ogkebs"
+    },
+    {
+        "identifiers": [
+            "steam:11000013dc53635",
+            "ip:37.47.241.234"
+        ],
+        "name": "Fineeasz",
+        "expire": 10444633200,
+        "banner": "xpajsh",
+        "banid": 114,
+        "reason": "Nie określono przyczyny ( Gracz: Fineeasz ), Zablokowany przez: xpajsh"
+    },
+    {
+        "expire": 10444633200,
+        "name": "Kamilka",
+        "banid": 115,
+        "banner": "xpajsh",
+        "identifiers": [
+            "steam:11000013edaa8f0",
+            "ip:193.27.14.190"
+        ],
+        "reason": "Nie określono przyczyny ( Gracz: Kamilka ), Zablokowany przez: xpajsh"
+    },
+    {
+        "expire": 1623010160,
+        "name": "cipek",
+        "banid": 117,
+        "banner": "k5m1l",
+        "identifiers": [
+            "steam:11000014203ca3a",
+            "ip:5.173.140.34"
+        ],
+        "reason": "cop baiting, troll ( Gracz: cipek ), Zablokowany przez: k5m1l"
+    },
+    {
+        "expire": 10444633200,
+        "name": "RyceQ",
+        "banid": 119,
+        "banner": "xpajsh",
+        "identifiers": [
+            "steam:11000011419b9e0",
+            "ip:188.146.129.234"
+        ],
+        "reason": "Nie określono przyczyny ( Gracz: RyceQ ), Zablokowany przez: xpajsh"
+    },
+    {
+        "expire": 10444633200,
+        "name": "BARTII..........",
+        "identifiers": [
+            "steam:110000144db1f53",
+            "ip:212.180.230.206"
+        ],
+        "banner": "akuku",
+        "banid": 120,
+        "reason": "Nie określono przyczyny ( Gracz: BARTII.......... ), Zablokowany przez: akuku"
+    },
+    {
+        "expire": 10444633200,
+        "name": "brunos21leo",
+        "banid": 121,
+        "banner": "brawlstars.michu",
+        "identifiers": [
+            "steam:1100001355dfd7f",
+            "ip:89.64.101.24"
+        ],
+        "reason": "Do wyjaśnienia ( Gracz: brunos21leo ), Zablokowany przez: brawlstars.michu"
+    },
+    {
+        "expire": 10444633200,
+        "name": "papaj",
+        "identifiers": [
+            "steam:11000013f87488d",
+            "ip:91.218.219.113"
+        ],
+        "banner": "brawlstars.michu",
+        "banid": 122,
+        "reason": "Do wyjaśnienia ( Gracz: papaj ), Zablokowany przez: brawlstars.michu"
+    },
+    {
+        "expire": 1620631595,
+        "name": "swiatlo",
+        "identifiers": [
+            "steam:11000013d3bf898",
+            "ip:89.68.233.58"
+        ],
+        "banner": "Snubi",
+        "banid": 123,
+        "reason": "Wyjście z roli, wyzywanie OOC na voice  ( Gracz: swiatlo ), Zablokowany przez: Snubi"
+    },
+    {
+        "identifiers": [
+            "steam:1100001151307ba",
+            "ip:8.40.107.8"
+        ],
+        "name": "✿pwln",
+        "banid": 124,
+        "banner": "ogkebs",
+        "expire": 1621500214,
+        "reason": "Nie określono przyczyny ( Gracz: ✿pwln ), Zablokowany przez: ogkebs"
+    },
+    {
+        "identifiers": [
+            "steam:1100001163eb082",
+            "ip:83.20.80.64"
+        ],
+        "banner": "Ciapparitto",
+        "expire": 1620641609,
+        "name": "Slonik",
+        "banid": 125,
+        "reason": "CL, LootRP ( Gracz: Slonik ), Zablokowany przez: Ciapparitto"
+    },
+    {
+        "identifiers": [
+            "steam:11000010e876b3d",
+            "ip:89.64.45.221"
+        ],
+        "banner": ".ceglaaa",
+        "banid": 126,
+        "name": "faja",
+        "expire": 10444633200,
+        "reason": "Nie określono przyczyny ( Gracz: faja ), Zablokowany przez: .ceglaaa"
+    },
+    {
+        "identifiers": [
+            "steam:1100001366a8e20",
+            "ip:91.231.24.55"
+        ],
+        "banner": "drex",
+        "expire": 1620903005,
+        "name": "Burak",
+        "banid": 127,
+        "reason": "RDM ( Gracz: Burak ), Zablokowany przez: drex"
+    },
+    {
+        "identifiers": [
+            "steam:110000116401554",
+            "ip:89.151.35.94"
+        ],
+        "banner": "xpajsh",
+        "banid": 128,
+        "name": "Rasta",
+        "expire": 1620903072,
+        "reason": "Brak Voda ( Gracz: Rasta ), Zablokowany przez: xpajsh"
+    },
+    {
+        "identifiers": [
+            "steam:1100001159be06a",
+            "ip:91.150.165.207"
+        ],
+        "banner": "xpajsh",
+        "expire": 1620903093,
+        "name": "RIGHT",
+        "banid": 129,
+        "reason": "Brak Voda ( Gracz: RIGHT ), Zablokowany przez: xpajsh"
+    },
+    {
+        "identifiers": [
+            "steam:11000014092f075",
+            "ip:31.2.1.66"
+        ],
+        "banid": 130,
+        "banner": "mentoras",
+        "name": "toles",
+        "expire": 10444633200,
+        "reason": "PERM ( Gracz: toles ), Zablokowany przez: mentoras"
+    }
+]

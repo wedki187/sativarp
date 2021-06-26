@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Testoviron",
+        "banner": "Sarielov",
+        "reason": "Nie określono przyczyny ( Gracz: Testoviron ), Zablokowany przez: Sarielov",
+        "expire": 10444633200,
+        "identifiers": [
+            "steam:110000132521143",
+            "license:a661317dafc4051b86cf1a8227e5fa8126a4323e",
+            "discord:473988237338345474",
+            "license2:44baab70815b75138bfcb326f0fec2efed020736",
+            "ip:79.163.250.129"
+        ],
+        "banid": 3
+    },
+    {
+        "name": "Kudzinn",
+        "banner": "Unknown",
+        "reason": "Spierdalaj n-wordzie matke ci rucham elo fajne czity ( Gracz: Kudzinn ), Zablokowany przez: Console",
+        "expire": 10444633200,
+        "identifiers": [
+            "steam:11000013c7608f1",
+            "license:047f9ee17f903e8d3da633aaa6d319abfd05ce08",
+            "discord:604977607204667404",
+            "license2:047f9ee17f903e8d3da633aaa6d319abfd05ce08",
+            "ip:87.207.180.71"
+        ],
+        "banid": 4
+    }
+]

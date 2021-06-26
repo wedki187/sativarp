@@ -1,0 +1,75 @@
+[
+    {
+        "name": "ATO",
+        "reason": "Wykorzystywanie bugów ( Gracz: ATO ), Zablokowany przez: Essen_",
+        "identifiers": [
+            "steam:11000011c792358",
+            "license:9ddd28f0251364030f3a16f013b8bb10fd38e42f",
+            "xbl:2535408406398113",
+            "live:985154145837309",
+            "discord:460959195743780889",
+            "license2:9ddd28f0251364030f3a16f013b8bb10fd38e42f",
+            "ip:178.219.139.165"
+        ],
+        "banid": 5,
+        "banner": "Essen_",
+        "expire": 1614234937
+    },
+    {
+        "name": "cloud.fejzuś",
+        "reason": "Spierdalaj n-wordzie matke ci rucham elo fajne czity ( Gracz: cloud.fejzuś ), Zablokowany przez: Console",
+        "identifiers": [
+            "steam:110000140702386",
+            "license:eb36e3e721460d97d85ecc7f0c1e1ce907048eed",
+            "discord:808956669748838400",
+            "license2:eb36e3e721460d97d85ecc7f0c1e1ce907048eed",
+            "ip:83.24.130.228"
+        ],
+        "banid": 6,
+        "banner": "Unknown",
+        "expire": 10444633200
+    },
+    {
+        "name": "Sekim",
+        "reason": "Spierdalaj n-wordzie matke ci rucham elo fajne czity ( Gracz: Sekim ), Zablokowany przez: Console",
+        "identifiers": [
+            "steam:11000010b2f63ca",
+            "license:84b123686750577030da0f3f6e290bea15cd08d6",
+            "discord:323342730891755520",
+            "ip:83.20.228.126"
+        ],
+        "banid": 7,
+        "banner": "Unknown",
+        "expire": 10444633200
+    },
+    {
+        "name": "bicek.exe",
+        "reason": "Spierdalaj n-wordzie matke ci rucham elo fajne czity ( Gracz: bicek.exe ), Zablokowany przez: Console",
+        "identifiers": [
+            "steam:1100001361d095b",
+            "license:fe098b1f0e3c9d649266c43ea6ab47e51a792362",
+            "discord:538406830771142656",
+            "license2:fe098b1f0e3c9d649266c43ea6ab47e51a792362",
+            "ip:185.140.102.52"
+        ],
+        "banid": 8,
+        "banner": "Unknown",
+        "expire": 10444633200
+    },
+    {
+        "name": "greiso2002",
+        "reason": "cl ( Gracz: greiso2002 ), Zablokowany przez: albertotraba",
+        "identifiers": [
+            "steam:11000010e68cd2f",
+            "license:1cbaa8b044b0226d8b855d4b467bf9171b4aa6a9",
+            "xbl:2535469408728151",
+            "live:914802218892952",
+            "discord:550384592717348884",
+            "license2:1cbaa8b044b0226d8b855d4b467bf9171b4aa6a9",
+            "ip:54.37.236.134"
+        ],
+        "banid": 9,
+        "banner": "albertotraba",
+        "expire": 1614199656
+    }
+]
